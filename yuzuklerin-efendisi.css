@@ -1,0 +1,16 @@
+h1 {
+    color:
+    rgb(82, 110, 72)
+    ;
+    font-size:60px;
+    text-align:center;
+}
+p{
+    color:rgb(98, 130, 93);
+
+}
+body{
+    font-family: fantasy;
+    background-color:rgb(158, 223, 156);
+    list-style-position: inside;
+}
